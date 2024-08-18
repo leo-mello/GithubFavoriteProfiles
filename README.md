@@ -1,1 +1,1 @@
-# GithubFavoriteProfiles
+# GithubFavoritesProfiles
